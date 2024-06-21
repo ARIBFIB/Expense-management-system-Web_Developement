@@ -1,2 +1,21 @@
 # Expense-management-system-Web_Developement
 Website is related to maintain the budget , visual applealing graph can also visible by date to date and Created in: PHP, HTML, CSS, Java Script
+
+![Screenshot 2024-06-21 043906](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/920eca42-0f6d-4dcd-97d8-3ffad5deda25)
+![Screenshot 2024-06-21 044002](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/de8e4623-fc39-40b3-98d9-4c9db486c078)
+![Screenshot 2024-06-21 044009](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/9cdf9a2e-7af6-458a-99ea-c9209b15b9a1)
+![Screenshot 2024-06-21 044820](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/30c07255-e012-41ee-96ab-bf0106829c32)
+![Screenshot 2024-06-21 044840](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/555091eb-bd54-409d-b4a8-c6aa469d7228)
+![Screenshot 2024-06-21 044911](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/e03ea9b8-4a55-4788-bd0a-491719d6035b)
+![Screenshot 2024-06-21 044919](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/90624977-b8d7-4ff4-ac53-3a71d23c679e)
+![Screenshot 2024-06-21 051343](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/a8ec4a6a-3b61-41d0-b8d0-5ee2e9f8421c)
+![Screenshot 2024-06-21 051434](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/348291d6-12e9-4d6a-a9a5-27315852b2bf)
+![Screenshot 2024-06-21 051454](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/b3e32a3d-c932-42cb-a764-ecc90b8af2ec)
+![Screenshot 2024-06-21 051515](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/807c38d1-f96b-45f8-ae16-8d9c01e26f13)
+![Screenshot 2024-06-21 051540](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/f81d7684-9125-4ee4-a3d9-54a349a5260a)
+![Screenshot 2024-06-21 051604](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/02a1b67f-9e06-4423-96f7-74ccff863703)
+![Screenshot 2024-06-21 051626](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/ad1db4b5-f0a3-42d7-90cc-1431d7c9ca7f)
+![Screenshot 2024-06-21 051715](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/ca54bfef-e09f-40a1-aafb-f0a9820d957b)
+![Screenshot 2024-06-21 051750](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/baf4ae35-2d10-435c-9785-5b2f189ebcbb)
+![Screenshot 2024-06-21 051822](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/a6c64111-ffed-4b3f-8f02-80098580bf50)
+![Screenshot 2024-06-21 051843](https://github.com/ARIBFIB/Expense-management-system-Web_Developement/assets/125716994/81ce98cc-22ef-4cd5-8bcb-4e1be189f3e4)
